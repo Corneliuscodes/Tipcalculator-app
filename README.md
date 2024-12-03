@@ -1,2 +1,2 @@
 # Demo
-A tip calculator to calculate money a customer tips the seller
+A tip calculator to calculate money a customer tips the seller.
